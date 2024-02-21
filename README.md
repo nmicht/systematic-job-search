@@ -2,6 +2,8 @@
 
 This repository is a template to help you stay focused with a systematic job search approach.
 
+_Example of usage: I use a repository like this with a branch for each year I have done a job search. I like to keep everything in one place with an easy way to see evolution of my answers._
+
 ## Process
 
 1. Prep
@@ -9,17 +11,18 @@ This repository is a template to help you stay focused with a systematic job sea
    1. Think about the type of companies I would like to work, type of projects, teams, culture and everything that makes a job interesting. Define a ranking system for it and configure it in the [spreadsheet tracker](https://docs.google.com/spreadsheets/d/1_w2W2ZdGwqK5nIuYSvIiPFztnPOjB1v1qNyJYimu2Ys/edit#gid=0).
    1. Work on improving my presence as a candidate. Update LinkedIn and other social media like GitHub. Work on a generic Resume and set aside folders for targeted resumes for each company.
    1. Think about the salary I would like to get and how the market is. This goes in90 the [salary file](salary.md) 
-   1. Do thorough preparation for the interviews. Check the [behavioral prep folder]() for general interviews and the [tech prep folder]() for system design interviews
-1. Search
+   1. Do thorough preparation for the interviews. Check the [behavioral prep folder](prep-behavioral) for general interviews.
+   2. Study and prepare for technical interviews.   
+2. Search
    1. Block a specific time of the day to search for jobs on LinkedIn and other platforms. The findings should be registered in the [spreadsheet tracker](https://docs.google.com/spreadsheets/d/1_w2W2ZdGwqK5nIuYSvIiPFztnPOjB1v1qNyJYimu2Ys/edit#gid=0). Don't forget to download the job ads and save them in a folder.
-   1. Block one to two times weekly to work on targeted cover letters to apply for the jobs.
-1. Interview
+   2. Block one to two times weekly to work on targeted cover letters to apply for the jobs.
+3. Interview
    1. Once a company invites you to an interview, create a markdown file using the [template](interviews/template.md) in the interviews folder and fill in the information.
-   1. Prepare for interviews by reading about the company and the role, building a pitch, and preparing at least three questions for the interviewer. You can use some of the questions in [to ask file](interviews/to-ask.md).
-   1. When sharing availability, push for weeks where all interviews are similar. For example, try to have all screenings with recruiters in the same week.
-1. Keep focus
+   2. Prepare for interviews by reading about the company and the role, building a pitch, and preparing at least three questions for the interviewer. You can use some of the questions in [to ask file](interviews/to-ask.md).
+   3. When sharing availability, push for weeks where all interviews are similar. For example, try to have all screenings with recruiters in the same week.
+4. Keep focus
    1. Every day, review the [tracker](https://docs.google.com/spreadsheets/d/1gKXTja1VcNgjIWf87lD8t9K1BScISh3DsCu_0Ezzics), update and take action on any activity needed like follow-ups, prepare for interviews, send availability, etc
-   1. At every start of the week, collect metrics in the [spreadsheet tracker](https://docs.google.com/spreadsheets/d/1gKXTja1VcNgjIWf87lD8t9K1BScISh3DsCu_0Ezzics) and score OKRs
+   2. At every start of the week, collect metrics in the [spreadsheet tracker](https://docs.google.com/spreadsheets/d/1gKXTja1VcNgjIWf87lD8t9K1BScISh3DsCu_0Ezzics) and score OKRs
 
 ## My resources
 
