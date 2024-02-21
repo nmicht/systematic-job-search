@@ -4,6 +4,31 @@ This repository is a template to help you stay focused with a systematic job sea
 
 _Example of usage: I use a repository like this with a branch for each year I have done a job search. I like to keep everything in one place with an easy way to see evolution of my answers._
 
+## Why and what
+
+_think about why I'm looking for a job, what type of job, what will make me happy, what is a no-no, etc_
+
+_Describe the three things that are most important for you in your next position_
+
+## OKRs
+
+[OKR scoring](_add a link to your spreadsheet tracker tab that points to the OKRs. The spreadsheet is helpful for scoring them_)
+
+1. O1: Get hired by a first-remote company to lead an engineering team working on developer tools. 
+   1. KR: Create a systematic job search by _add date here_
+   2. KR: Apply with personalized cover letters to 30 positions that align with my job satisfaction
+   3. KR: Follow up with recruiters within 48 hours after the interview
+   4. KR: Achieve a 1:3 ratio between applications and invitations to interviews
+2. O2: Be seen as the ideal candidate for engineering lead roles
+   1. KR: Improve my resume and online presence by _add date here_
+   2. KR: Fine-tune my elevator pitch according to each company
+   3. KR: Attend interviews with a set of at least 3 questions related to the company and role
+3. O3: Present as a credible technical expert for the roles
+   1. KR: Complete at least three technical trainings
+   2. KR: Do at least 5 architecture/system design mock interviews
+   3. KR: Make 5 system design exercises from the book
+
+
 ## Process
 
 1. Prep
@@ -31,25 +56,3 @@ _everything in one place to make things easier_
 - [Resume](_add here the link to your resume_)
 - [LinkedIn](_add here the link to your linkedin_)
 - [Tracker spreadsheet](_put here the link to your copy of the tracker_)
-
-## Why and what
-
-_think about why I'm looking for a job, what type of job, what will make me happy, what is a no-no, etc_
-
-## OKRs
-
-[OKR scoring](_add a link to your spreadsheet tracker tab that points to the OKRs. The spreadsheet is helpful for scoring them_)
-
-1. O1: Get hired by a first-remote company to lead an engineering team working on developer tools. 
-   1. KR: Create a systematic job search by _add date here_
-   2. KR: Apply with personalized cover letters to 30 positions that align with my job satisfaction
-   3. KR: Follow up with recruiters within 48 hours after the interview
-   4. KR: Achieve a 1:3 ratio between applications and invitations to interviews
-2. O2: Be seen as the ideal candidate for engineering lead roles
-   1. KR: Improve my resume and online presence by _add date here_
-   2. KR: Fine-tune my elevator pitch according to each company
-   3. KR: Attend interviews with a set of at least 3 questions related to the company and role
-3. O3: Present as a credible technical expert for the roles
-   1. KR: Complete at least three technical trainings
-   2. KR: Do at least 5 architecture/system design mock interviews
-   3. KR: Make 5 system design exercises from the book
