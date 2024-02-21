@@ -20,7 +20,7 @@ _Using the resources, do a thorough research about the salaries for the role and
 
 _Take screenshots and add them here. This will help you to keep the view of possible salaries in one place_
 
-- [![Salaries according to levels.fyi](assets/replace-for-your-screenshot.png)](https://www.levels.fyi/Salaries/replace-for-your-role-and-location)
+- [![Salaries according to levels.fyi](_add here link to your image_)](_link to the website where this salary band was found_)
 
  
 ### What people in your target job at your target company are currently making
