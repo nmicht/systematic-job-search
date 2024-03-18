@@ -73,4 +73,5 @@ For negotiation:
 - [Fearless salary negotiation](https://fearlesssalarynegotiation.com/book/negotiate/what-is-your-minimum-acceptable-salary/)
 - [Templates](https://fearlesssalarynegotiation.com/salary-negotiation-email-sample/#ask-for-time-template)
 - [6 Steps to Handling the Verbal Offer](https://right-resources.com/6-steps-to-handling-the-verbal-offer/)
+- [Ten rules for negotiating a job offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer)
 
